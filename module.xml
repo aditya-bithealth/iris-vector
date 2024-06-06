@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="iris-VectorLab.ZPM">
+    <Module>
+      <Name>iris-VectorLab</Name>
+      <Version>1.0.1</Version>
+      <Description>InterSystems Vector Search Use Cases</Description>
+      <Keywords>Vector,Server</Keywords>
+      <Packaging>module</Packaging>
+    <SourcesRoot>src</SourcesRoot>
+    <Resource Name="dc.PKG"/>
+    <Invoke Class="dc.VectorLab.Base" Method="init"></Invoke>  
+     
+     </Module>
+  </Document>
+</Export>
