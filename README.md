@@ -2,14 +2,14 @@
 Open the terminal in this directory and run:
 
 ```
-$ docker-compose up -d
+docker-compose up -d
 ```
 
 
 ## Test functionality through IRIS terminal
 Run the below command to start IRIS terminal from VS CODE terminal
 ```
-$ docker-compose exec iris iris session iris
+docker-compose exec iris iris session iris
 ```
 
 
